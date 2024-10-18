@@ -1,0 +1,4 @@
+1) Decimal->Hex
+2) Hex->Decimal
+3)Decimal->Binary
+4)Binary->Decimal
